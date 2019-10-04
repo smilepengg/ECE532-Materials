@@ -25,3 +25,9 @@
 [submodule "assignments/A2_primitives/latex"]
 	path = assignments/A2_primitives/latex
 	url = https://github.com/UofT-HPRC/ECE532-Assign-Primitives
+[submodule "tests_and_demos/in_lab_test/latex"]
+	path = tests_and_demos/in_lab_test/latex
+	url = https://github.com/UofT-HPRC/ECE532-Lab-Test
+[submodule "tests_and_demos/warm_up_demo/latex"]
+	path = tests_and_demos/warm_up_demo/latex
+	url = https://github.com/UofT-HPRC/ECE532-Lab-Warm_Up_Demo
