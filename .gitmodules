@@ -1,0 +1,21 @@
+[submodule "tutorials/T01_vivado_basics/latex"]
+	path = tutorials/T01_vivado_basics/latex
+	url = https://github.com/UofT-HPRC/ECE532-Tut-Vivado_Basics
+[submodule "tutorials/T02_microblaze/latex"]
+	path = tutorials/T02_microblaze/latex
+	url = https://github.com/UofT-HPRC/ECE532-Tut-Microblaze
+[submodule "tutorials/T03_memory/latex"]
+	path = tutorials/T03_memory/latex
+	url = https://github.com/UofT-HPRC/ECE532-Tut-Adding_Memory_to_Microblaze
+[submodule "tutorials/T04_ILA/latex"]
+	path = tutorials/T04_ILA/latex
+	url = https://github.com/UofT-HPRC/ECE532-Tut-ILA
+[submodule "tutorials/T05_LWIP/latex"]
+	path = tutorials/T05_LWIP/latex
+	url = https://github.com/UofT-HPRC/ECE532-Tut-LWIP
+[submodule "tutorials/T06_custom_IP/latex"]
+	path = tutorials/T06_custom_IP/latex
+	url = https://github.com/UofT-HPRC/ECE532-Tut-Package_IP
+[submodule "tutorials/T07_VIP/latex"]
+	path = tutorials/T07_VIP/latex
+	url = https://github.com/UofT-HPRC/ECE532-Tut-AXI_VIP
