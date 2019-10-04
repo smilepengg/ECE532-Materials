@@ -31,3 +31,6 @@
 [submodule "tests_and_demos/warm_up_demo/latex"]
 	path = tests_and_demos/warm_up_demo/latex
 	url = https://github.com/UofT-HPRC/ECE532-Lab-Warm_Up_Demo
+[submodule "schedule/latex_old"]
+	path = schedule/latex_old
+	url = https://github.com/UofT-HPRC/ECE532-Schedule
