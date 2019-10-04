@@ -1,0 +1,26 @@
+To build the reference design, include the source and constraint files in
+src/ as well as the two IPs in src/ip/.
+
+You may also generate the IPs yourself. You would need to generate the
+following:
+
+1) blk_mem_gen_0 : Block Memory Generator
+  Memory Type: Simple Dual Port RAM
+  Port A Options:
+    - Width 16
+    - Depth 76800
+    - Enable Port Type: Always Enabled
+  Port B Options:
+    - Enable Port Type: Always Enabled
+
+2) clock_wiz_0 : Clocking Wizard
+  - 100 MHz Single ended source
+  - Two Output Clocks:
+      - clk_out1: 50 MHz
+      - clk_out2: 25 MHz
+  - "Enable Options Inputs / Outputs" : uncheck reset
+
+As a quick check to see if you configured the cores properly, make sure the
+ports shown in the customize IP dialog match the Verilog ports for the blocks
+in src/ov7670_top.v
+
