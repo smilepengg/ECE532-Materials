@@ -37,3 +37,6 @@
 [submodule "schedule/latex"]
 	path = schedule/latex
 	url = https://github.com/UofT-HPRC/ECE532-Schedule
+[submodule "tutorials/other_tutorials/waveshare_camera"]
+	path = tutorials/other_tutorials/waveshare_camera
+	url = https://github.com/UofT-HPRC/ece532_waveshare
