@@ -19,3 +19,9 @@
 [submodule "tutorials/T07_VIP/latex"]
 	path = tutorials/T07_VIP/latex
 	url = https://github.com/UofT-HPRC/ECE532-Tut-AXI_VIP
+[submodule "assignments/A1_simulating_AXI/latex"]
+	path = assignments/A1_simulating_AXI/latex
+	url = https://github.com/UofT-HPRC/ECE532-Assign-Simulating_AXI
+[submodule "assignments/A2_primitives/latex"]
+	path = assignments/A2_primitives/latex
+	url = https://github.com/UofT-HPRC/ECE532-Assign-Primitives
