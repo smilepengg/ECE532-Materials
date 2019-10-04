@@ -34,3 +34,6 @@
 [submodule "schedule/latex_old"]
 	path = schedule/latex_old
 	url = https://github.com/UofT-HPRC/ECE532-Schedule
+[submodule "schedule/latex"]
+	path = schedule/latex
+	url = https://github.com/UofT-HPRC/ECE532-Schedule
